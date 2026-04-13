@@ -2,7 +2,8 @@ Medical Cost Personal Dataset (Linear Regression)
 
 ---
 
- Team Member Details
+ Team Member Details  
+ 
 Member 1 - Daman Basotra: 2503031240025  
 
 Member 2 - Dhruv Kumar: 2503031240029  
